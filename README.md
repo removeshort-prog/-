@@ -1,4 +1,4 @@
-# miyoushe-wiki-wallpaper-helper
+# 米游社Wiki下载器
 我用来获取训练集的小工具
 
 # 米游社 WIKI 壁纸批量提取与下载助手
