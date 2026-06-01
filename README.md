@@ -22,7 +22,7 @@
 
 在安装此脚本前，请确保您的浏览器已安装了 [Tampermonkey (油猴) 扩展插件](https://www.tampermonkey.net/)。
 
-### 👉 [点击此处一键安装/更新脚本](https://raw.githubusercontent.com/您的GitHub用户名/您的仓库名称/main/miyoushe-wallpaper-helper.user.js)
+### 👉 [点击此处一键安装/更新脚本](https://github.com/removeshort-prog/miyoushe-wiki-wallpaper-helper/raw/refs/heads/main/miyoushe-wallpaper-helper.user.js)
 
 ---
 
